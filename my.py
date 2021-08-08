@@ -4,6 +4,10 @@ def my_print():
 
 def my_print2():
     print("hello world")
+
+
+def my_print4():
+    print("hello world")
     
     
 def my_print3():
